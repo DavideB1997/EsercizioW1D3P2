@@ -1,0 +1,14 @@
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.AssemblyInfoInputs.cache
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.AssemblyInfo.cs
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.csproj.CoreCompileInputs.cache
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\bin\Debug\net8.0\eserciziow1d3.exe
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\bin\Debug\net8.0\eserciziow1d3.deps.json
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\bin\Debug\net8.0\eserciziow1d3.runtimeconfig.json
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\bin\Debug\net8.0\eserciziow1d3.dll
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\bin\Debug\net8.0\eserciziow1d3.pdb
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.dll
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\refint\eserciziow1d3.dll
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.pdb
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\eserciziow1d3.genruntimeconfig.cache
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3\obj\Debug\net8.0\ref\eserciziow1d3.dll

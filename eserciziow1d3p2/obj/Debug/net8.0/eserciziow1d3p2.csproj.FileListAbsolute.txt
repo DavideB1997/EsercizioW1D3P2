@@ -1,0 +1,14 @@
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\bin\Debug\net8.0\eserciziow1d3p2.exe
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\bin\Debug\net8.0\eserciziow1d3p2.deps.json
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\bin\Debug\net8.0\eserciziow1d3p2.runtimeconfig.json
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\bin\Debug\net8.0\eserciziow1d3p2.dll
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\bin\Debug\net8.0\eserciziow1d3p2.pdb
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.AssemblyInfoInputs.cache
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.AssemblyInfo.cs
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.csproj.CoreCompileInputs.cache
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.dll
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\refint\eserciziow1d3p2.dll
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.pdb
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\eserciziow1d3p2.genruntimeconfig.cache
+C:\Users\Davide\Documents\VSRepo\eserciziow1d3p2\obj\Debug\net8.0\ref\eserciziow1d3p2.dll
